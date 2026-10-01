@@ -1,16 +1,17 @@
-## Hi there 👋
+# Salut, je suis Tsiry 👋
 
-<!--
-**donat-tsiry/donat-tsiry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant à l'École Nationale d'Informatique (Madagascar) 🇲🇬
+Passionné par le développement Web et Logiciel.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
+- Langages : Java, Python, PHP, JavaScript
+- Web : HTML, CSS
+- Bases de données : MySQL,PostgreSQL
+- Outils : Git, GitHub, VS Code;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Mes projets
+- [Gestion-notes-desetudiants](https://github.com/donat-tsiry/Gestion-notes-desetudiants) : application de gestion des notes des étudiants
+
+## 📫 Me contacter
+- Email : donatientsiry@gmail.com
+- LinkedIn : [Donatien Tsiry](https://www.linkedin.com/in/donatien-tsiry-a72007424/)
