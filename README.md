@@ -1,6 +1,6 @@
 # Salut, je suis Tsiry 👋
 
-Étudiant à l'École Nationale d'Informatique (Madagascar) 🇲🇬
+Étudiant à l'École Nationale d'Informatique (Madagascar) 
 Passionné par le développement Web et Logiciel.
 
 ## 🛠️ Technologies
