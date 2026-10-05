@@ -6,7 +6,7 @@ Passionné par le développement Web et Logiciel.
 
 ## 🛠️ Technologies
 - Langages : Java, Python, PHP, JavaScript
-- Web : HTML, CSS
+- Web : HTML, CSS, XML
 - Bases de données : MySQL,PostgreSQL
 - Outils : Git, GitHub, VS Code, Odoo Developper
 
