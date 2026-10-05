@@ -1,4 +1,4 @@
-# Salut, je suis Tsiry 👋
+# Salut, je suis Tsiry ®
 
 Étudiant à l'École Nationale d'Informatique (Madagascar) 
 
