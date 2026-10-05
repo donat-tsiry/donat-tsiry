@@ -8,7 +8,7 @@ Passionné par le développement Web et Logiciel.
 - Langages : Java, Python, PHP, JavaScript
 - Web : HTML, CSS
 - Bases de données : MySQL,PostgreSQL
-- Outils : Git, GitHub, VS Code
+- Outils : Git, GitHub, VS Code, Odoo Developper
 
 ## 📂 Mes projets
 - [Gestion-notes-desetudiants](https://github.com/donat-tsiry/Gestion-notes-desetudiants) : application de gestion des notes des étudiants
